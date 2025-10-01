@@ -1,1 +1,1 @@
-Desafio proposto pelo Bootcamp "Santander 2024 - Backend com Java" da DIO. Nesse projeto, utilizo dos conceitos de try/catch e exception customizadas para a solução de um problema em Java.
+Desafio proposto pelo Bootcamp "Santander 2024 - Backend com Java" da DIO. Nesse projeto, utilizo dos conceitos de try/catch e exception customizadas para criar um simples programa que imprime na tela a diferença entre 2 números diferentes. A exception customizada serve para impedir que o 2º sejá maior que o primeiro, assim permitindo o programa funcionar sem problemas.
